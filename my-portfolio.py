@@ -60,13 +60,13 @@ st.write("""
 st.subheader("2. Web Development")
 st.write("""
 - *E-commerce Website (Django)*: Developed a complete e-commerce website using Django with features such as product management, user authentication, and payment processing. [View Demo](https://codder.pythonanywhere.com/)
-- *PDF Reader with Gemini API*: Created a PDF reader using the Gemini API for text extraction and advanced querying. [View Demo](https://app-jynw8kzjjpfg2qshehoa7j.streamlit.app/)
+- *PDF Reader with Gemini API*: Created a PDF reader using the Gemini API for text extraction and advanced querying. [View Demo](https://pdf-question-answer-chatbot.streamlit.app/)
 - *Django Projects*: Built multiple full-stack web applications using Django for both frontend and backend functionalities.
 """)
 
 st.subheader("3. Data Science & Automation")
 st.write("""
-- *Data Scraping Projects*: Scraped data from websites using Selenium and BeautifulSoup for building datasets. [View Demo of priceoye scraping](https://priceoye-scrapper-ujangwmskkk5togefp9aqy.streamlit.app/)
+- *Data Scraping Projects*: Scraped data from websites using Selenium and BeautifulSoup for building datasets. [View Demo of priceoye scraping](https://priceoye-scrapper.streamlit.app/)
 - *Data Preprocessing & Modeling*: Proficient in cleaning, transforming, and scaling data to improve machine learning model performance.
 """)
 
