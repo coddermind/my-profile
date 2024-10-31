@@ -3,6 +3,16 @@ import streamlit as st
 # Set page title and layout
 st.set_page_config(page_title="Muhammad Abrar's Portfolio", page_icon="📊", layout="wide")
 
+# Hide the three dots menu and Streamlit footer
+hide_menu_style = """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    </style>
+"""
+st.markdown(hide_menu_style, unsafe_allow_html=True)
+
 # Custom CSS for background color and font color
 st.markdown("""
     <style>
