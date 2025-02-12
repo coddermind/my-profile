@@ -70,6 +70,7 @@ st.write("""
 st.subheader("2. Web Development")
 st.write("""
 - *E-commerce Website (Django)*: Developed a complete e-commerce website using Django with features such as product management, user authentication, and payment processing. [View Demo](https://codder.pythonanywhere.com/)
+- *MultiVendor E-commerce Plateform*: Developed a complete multi-vendor e-commerce plateform using Django with features such as seller and buyer account management, product management, order management, order history, email system, user authentication, and payment processing. [View Demo](https://alnamaa.pythonanywhere.com/)
 - *PDF Reader with Gemini API*: Created a PDF reader using the Gemini API for text extraction and advanced querying. [View Demo](https://pdf-question-answer-chatbot.streamlit.app/)
 - *Django Projects*: Built multiple full-stack web applications using Django for both frontend and backend functionalities.
 """)
