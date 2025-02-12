@@ -54,7 +54,7 @@ with col1:
 
 # Right column for profile image
 with col2:
-    st.image("images/profile_image.png", width=150, caption="Muhammad Abrar", use_column_width=True)
+    st.image("images/profile_image.png", width=150, caption="Muhammad Abrar", use_container_width=True)
 
 # Projects Section
 st.header("Projects & Expertise")
