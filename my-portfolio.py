@@ -133,7 +133,7 @@ st.write("*Email*: [hacodder@gmail.com](mailto:hacodder@gmail.com)")
 st.write("*Phone*: [+923065516830](tel:+923065516830)")
 st.write("*WhatsApp*: [923065516830](https://wa.me/923065516830)")
 st.write("*GitHub*: [github.com/coddermind](https://github.com/coddermind)")
-st.write("*LinkedIn*: [Muhammad Abrar on LinkedIn](https://www.linkedin.com/in/muhammad-abrar-805397277)")
+st.write("*LinkedIn*: [Muhammad Abrar on LinkedIn](https://www.linkedin.com/in/muhammad-abrar-b1508a357)")
 
 # Footer
 st.write("Thank you for visiting my portfolio!")
